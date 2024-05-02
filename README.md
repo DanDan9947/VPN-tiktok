@@ -24,3 +24,6 @@
 安卓tiktok链接：https://xiguajiasu.shop/anzhuo/TikTok.apk
 
 安卓tiktok备用链接：https://xiguajiasu.shop/anzhuo/TikTok1.apk
+
+## 使用范围
+tiktok只能观看，不能发布作品，发布作品需要个人独立服务器，住宅ip，需要可以扣扣联系： 3615179276 （个人可以自己弄一个月20左右人民币）
