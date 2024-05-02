@@ -7,5 +7,20 @@
 
 ## 地址演示
 <div>
-  <img style="margin:10px" src="./01.png" alt="drawing" />
+  <img style="margin:10px" src="./04.png" alt="drawing" />
 </div>
+
+## 速度演示
+<div>
+  <img style="margin:10px" src="./05.png" alt="drawing" />
+</div>
+
+## 软件推荐
+<div>
+  <img style="margin:10px" src="./06.png" alt="drawing" />
+</div>
+
+## 下载安卓tiktok软件
+安卓tiktok链接：https://xiguajiasu.shop/anzhuo/TikTok.apk
+
+安卓tiktok备用链接：https://xiguajiasu.shop/anzhuo/TikTok1.apk
