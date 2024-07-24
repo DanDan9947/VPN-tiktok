@@ -20,10 +20,25 @@
   <img style="margin:10px" src="./06.png" alt="drawing" />
 </div>
 
+windows的工具：https://doc.loxcloud.com/win-clash.html
+<div>
+  <img style="margin:10px" src="./8.png" alt="drawing" />
+</div>
+<div>
+  <img style="margin:10px" src="./9.png" alt="drawing" />
+</div>
+
+可以使用GPT
+<div>
+  <img style="margin:10px" src="./10.png" alt="drawing" />
+</div>
+
 ## 下载安卓tiktok软件
+
 安卓tiktok链接：https://xiguajiasu.shop/anzhuo/TikTok.apk
 
 安卓tiktok备用链接：https://xiguajiasu.shop/anzhuo/TikTok1.apk
 
 ## 使用范围
-tiktok只能观看，不能发布作品，发布作品需要独立，住宅ip。
+tiktok只能观看，不能发布作品，发布作品需要独立，住宅ip，（亚马逊，tiktok运营才需要，个人可以自己弄一个月20左右人民币，可以试用一天再下单）
+##  Chargpt账号也有，账号密码由你自己定，我帮你创建，一个号6RNB,合法合理的用户做学习
