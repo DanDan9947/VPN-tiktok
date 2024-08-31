@@ -42,4 +42,4 @@ windows的工具：https://doc.loxcloud.com/win-clash.html
 
 ## 使用范围
 tiktok只能观看，不能发布作品，发布作品需要独立，住宅ip，（亚马逊，tiktok运营才需要，个人可以自己弄一个月20左右人民币，可以试用一天再下单）
-##  Chargpt账号也有，账号密码由你自己定，我帮你创建，一个号6RNB,合法合理的用户做学习
+
