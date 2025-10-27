@@ -26,7 +26,7 @@ windows的工具：https://doc.loxcloud.com/win-clash.html
   <img style="margin:10px" src="./8.png" alt="drawing" />
 </div>
 <div>
-  <img style="margin:10px" src="./9.png" alt="drawing" />
+  <img style="margin:10px" src="./35.png" alt="drawing" />
 </div>
 
 可以使用GPT
