@@ -3,6 +3,7 @@
 # VPN
 推荐最好用的VPN,年费19.9元(人民币),月费8.8元,推荐用年费，【知乎推荐排行】，300G流量根本用不完，速度快，可以考研学习使用，看TikTok，YouTuBe等！Tiktok的使用，安装方法！
 
+## VPN : https://xn--9kqz23b19z.com/#/register?code=hwzJqUAS
 ## VPN链接： https://www.d-h-h.in/#/register?code=YmLgtX9J
 ## vpn链接一个月5元200G： https://www.crosswall.org/#/register?code=LyDdemUz
 ## 淘气兔： https://vip.xn--h5qy56dzhb.vip/#/register?code=KOWQB4Di
